@@ -25,8 +25,8 @@ class Boundary {
   }
 
   draw() {
-    ctx.fillStyle = 'rgba(255, 0, 0, 0.4)';
-    ctx.fillRect(this.position.x, this.position.y, Boundary.width, Boundary.height);
+    //ctx.fillStyle = 'rgba(255, 0, 0, 0.4)';
+    //ctx.fillRect(this.position.x, this.position.y, Boundary.width, Boundary.height);
   }
 }
 
